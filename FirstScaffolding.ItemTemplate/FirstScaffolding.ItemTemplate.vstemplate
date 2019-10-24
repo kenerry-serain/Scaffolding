@@ -11,16 +11,16 @@
     <DefaultName>Class.cs</DefaultName>
   </TemplateData>
   <TemplateContent>
-    <ProjectItem SubType="code" TargetFileName="temp/$entityName$.cs" ReplaceParameters="true">Domain\Entities\Entity.cs</ProjectItem>
-    <ProjectItem SubType="code" TargetFileName="temp/I$entityName$Repositorio.cs" ReplaceParameters="true">Domain\Interfaces\IEntityRepository.cs</ProjectItem>
-    <ProjectItem SubType="code" TargetFileName="temp/$entityName$Repositorio.cs" ReplaceParameters="true">Repository\EntityRepository.cs</ProjectItem>
-    <ProjectItem SubType="code" TargetFileName="temp/I$entityName$AppService.cs" ReplaceParameters="true">Application\Interfaces\IEntityAppService.cs</ProjectItem>
-    <ProjectItem SubType="code" TargetFileName="temp/$entityName$AppService.cs" ReplaceParameters="true">Application\Services\EntityAppService.cs</ProjectItem>
-    <ProjectItem SubType="code" TargetFileName="temp/$entityName$ViewModel.cs" ReplaceParameters="true">Application\ViewModel\EntityViewModel.cs</ProjectItem>
-    <ProjectItem SubType="code" TargetFileName="temp/$entityName$Controller.cs" ReplaceParameters="true">API\EntityController.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$Entity$.cs" ReplaceParameters="true">Domain\Entities\Entity.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/I$Entity$Repositorio.cs" ReplaceParameters="true">Domain\Interfaces\IEntityRepository.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$Entity$Repositorio.cs" ReplaceParameters="true">Repository\EntityRepository.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/I$Entity$AppService.cs" ReplaceParameters="true">Application\Interfaces\IEntityAppService.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$Entity$AppService.cs" ReplaceParameters="true">Application\Services\EntityAppService.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$Entity$ViewModel.cs" ReplaceParameters="true">Application\ViewModel\EntityViewModel.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$Entity$Controller.cs" ReplaceParameters="true">API\EntityController.cs</ProjectItem>
   </TemplateContent>
   <WizardExtension>
-    <Assembly>FirstScaffolding.Wizard</Assembly>
-    <FullClassName>FirstScaffolding.Wizard.WizardTemplate</FullClassName>
+    <Assembly>WizardScaffolding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1d81a0a77cb5f76</Assembly>
+    <FullClassName>WizardScaffolding.WizardTemplate</FullClassName>
   </WizardExtension>
 </VSTemplate>

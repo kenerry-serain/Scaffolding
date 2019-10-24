@@ -2063,13 +2063,13 @@
           "bin/placeholder/FirstScaffolding.ItemTemplate.dll": {}
         }
       },
-      "FirstScaffolding.Wizard/1.0.0": {
+      "WizardScaffolding/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/FirstScaffolding.Wizard.dll": {}
+          "bin/placeholder/WizardScaffolding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FirstScaffolding.Wizard.dll": {}
+          "bin/placeholder/WizardScaffolding.dll": {}
         }
       }
     },
@@ -4071,13 +4071,13 @@
           "bin/placeholder/FirstScaffolding.ItemTemplate.dll": {}
         }
       },
-      "FirstScaffolding.Wizard/1.0.0": {
+      "WizardScaffolding/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/FirstScaffolding.Wizard.dll": {}
+          "bin/placeholder/WizardScaffolding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FirstScaffolding.Wizard.dll": {}
+          "bin/placeholder/WizardScaffolding.dll": {}
         }
       }
     },
@@ -6079,13 +6079,13 @@
           "bin/placeholder/FirstScaffolding.ItemTemplate.dll": {}
         }
       },
-      "FirstScaffolding.Wizard/1.0.0": {
+      "WizardScaffolding/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/FirstScaffolding.Wizard.dll": {}
+          "bin/placeholder/WizardScaffolding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FirstScaffolding.Wizard.dll": {}
+          "bin/placeholder/WizardScaffolding.dll": {}
         }
       }
     },
@@ -8087,13 +8087,13 @@
           "bin/placeholder/FirstScaffolding.ItemTemplate.dll": {}
         }
       },
-      "FirstScaffolding.Wizard/1.0.0": {
+      "WizardScaffolding/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/FirstScaffolding.Wizard.dll": {}
+          "bin/placeholder/WizardScaffolding.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FirstScaffolding.Wizard.dll": {}
+          "bin/placeholder/WizardScaffolding.dll": {}
         }
       }
     }
@@ -12834,18 +12834,18 @@
       "path": "../FirstScaffolding.ItemTemplate/FirstScaffolding.ItemTemplate.csproj",
       "msbuildProject": "../FirstScaffolding.ItemTemplate/FirstScaffolding.ItemTemplate.csproj"
     },
-    "FirstScaffolding.Wizard/1.0.0": {
+    "WizardScaffolding/1.0.0": {
       "type": "project",
-      "path": "../FirstScaffolding.Wizard/FirstScaffolding.Wizard.csproj",
-      "msbuildProject": "../FirstScaffolding.Wizard/FirstScaffolding.Wizard.csproj"
+      "path": "../FirstScaffolding.Wizard/WizardScaffolding.csproj",
+      "msbuildProject": "../FirstScaffolding.Wizard/WizardScaffolding.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": [
       "FirstScaffolding.ItemTemplate >= 1.0.0",
-      "FirstScaffolding.Wizard >= 1.0.0",
       "Microsoft.VSSDK.BuildTools >= 16.3.2099",
-      "Microsoft.VisualStudio.SDK >= 16.0.202"
+      "Microsoft.VisualStudio.SDK >= 16.0.202",
+      "WizardScaffolding >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12878,8 +12878,8 @@
             "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.ItemTemplate\\FirstScaffolding.ItemTemplate.csproj": {
               "projectPath": "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.ItemTemplate\\FirstScaffolding.ItemTemplate.csproj"
             },
-            "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\FirstScaffolding.Wizard.csproj": {
-              "projectPath": "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\FirstScaffolding.Wizard.csproj"
+            "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\WizardScaffolding.csproj": {
+              "projectPath": "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\WizardScaffolding.csproj"
             }
           }
         }

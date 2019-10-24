@@ -6,7 +6,7 @@ using EnvDTE;
 using Microsoft.VisualStudio.Shell;
 using Microsoft.VisualStudio.TemplateWizard;
 
-namespace FirstScaffolding.Wizard
+namespace WizardScaffolding
 {
     public class WizardTemplate : IWizard
     {
@@ -119,7 +119,7 @@ namespace FirstScaffolding.Wizard
 
         public bool ShouldAddProjectItem(string filePath)
         {
-            throw new System.NotImplementedException();
+            return true;
         }
 
         Project GetProjectByName(string nomeProjeto)
@@ -130,7 +130,7 @@ namespace FirstScaffolding.Wizard
         void SetParameters(Dictionary<string, string> replacementsDictionary)
         {
             replacementsDictionary.Add("$Entity$", _entityName);
-            replacementsDictionary.Add("$lowerEntityName$", _entityName.ToLower());
+            replacementsDictionary.Add("$lowerEntity$", _entityName.ToLower());
             replacementsDictionary.Add("$ApplicationInterfacesNamespace$", string.Concat(_applicationProject, ".", "Abstractions"));
             replacementsDictionary.Add("$ApplicationViewModelsNamespace$", string.Concat(_applicationProject, ".", "ViewModels"));
             replacementsDictionary.Add("$ApplicationServicesNamespace$", string.Concat(_applicationProject, ".", "Services"));

@@ -20,7 +20,7 @@
     <ProjectItem SubType="code" TargetFileName="temp/$entityName$Controller.cs" ReplaceParameters="true">API\EntityController.cs</ProjectItem>
   </TemplateContent>
   <WizardExtension>
-    <Assembly>FirstScaffolding.Wizard</Assembly>
-    <FullClassName>FirstScaffolding.Wizard.WizardTemplate</FullClassName>
+    <Assembly>WizardScaffolding, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1d81a0a77cb5f76</Assembly>
+    <FullClassName>WizardScaffolding.WizardTemplate</FullClassName>
   </WizardExtension>
 </VSTemplate>

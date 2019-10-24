@@ -3,7 +3,7 @@ using EnvDTE80;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace FirstScaffolding.Wizard
+namespace WizardScaffolding
 {
     public static class WizardExtension
     {

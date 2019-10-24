@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="FirstScaffolding.Deploy.5cb264eb-f728-4c59-af32-abbb3f961951" Version="1.1.1.3" Language="en-US" Publisher="Kenerry Pierry Paulo Serain" />
+        <Identity Id="FirstScaffolding Deploy" Version="1.1.1.4" Language="en-US" Publisher="Kenerry Pierry Paulo Serain" />
         <DisplayName>ViceriItem</DisplayName>
         <Description xml:space="preserve">Empty VSIX Project.</Description>
     </Metadata>
@@ -16,6 +16,6 @@
     </Prerequisites>
     <Assets>
         <Asset Type="Microsoft.VisualStudio.ItemTemplate" d:Source="Project" d:ProjectName="FirstScaffolding.ItemTemplate" d:TargetPath="|FirstScaffolding.ItemTemplate;TemplateProjectOutputGroup|" Path="ItemTemplates" d:VsixSubPath="ItemTemplates" />
-        <Asset Type="Microsoft.VisualStudio.Assembly" d:Source="Project" d:ProjectName="FirstScaffolding.Wizard" Path="|FirstScaffolding.Wizard|" AssemblyName="|FirstScaffolding.Wizard;AssemblyName|" />
+        <Asset Type="Microsoft.VisualStudio.Assembly" d:Source="Project" d:ProjectName="WizardScaffolding" Path="|WizardScaffolding|" AssemblyName="|WizardScaffolding;AssemblyName|" />
     </Assets>
 </PackageManifest>

@@ -31,8 +31,8 @@
               "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.ItemTemplate\\FirstScaffolding.ItemTemplate.csproj": {
                 "projectPath": "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.ItemTemplate\\FirstScaffolding.ItemTemplate.csproj"
               },
-              "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\FirstScaffolding.Wizard.csproj": {
-                "projectPath": "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\FirstScaffolding.Wizard.csproj"
+              "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\WizardScaffolding.csproj": {
+                "projectPath": "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\WizardScaffolding.csproj"
               }
             }
           }
@@ -76,12 +76,12 @@
         "net472": {}
       }
     },
-    "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\FirstScaffolding.Wizard.csproj": {
+    "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\WizardScaffolding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\FirstScaffolding.Wizard.csproj",
-        "projectName": "FirstScaffolding.Wizard",
-        "projectPath": "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\FirstScaffolding.Wizard.csproj"
+        "projectUniqueName": "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\WizardScaffolding.csproj",
+        "projectName": "WizardScaffolding",
+        "projectPath": "E:\\Repository\\Scaffolding Tests\\FirstScaffolding\\FirstScaffolding.Wizard\\WizardScaffolding.csproj"
       },
       "frameworks": {
         "net472": {}

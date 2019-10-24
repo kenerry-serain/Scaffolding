@@ -2,9 +2,10 @@ E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Deb
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\FirstScaffolding.Deploy.pdb
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\FirstScaffolding.Deploy.pkgdef
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\FirstScaffolding.Deploy.vsix
-E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\FirstScaffolding.Wizard.dll
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\extension.vsixmanifest
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\WizardScaffolding.dll
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
-E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\FirstScaffolding.Wizard.pdb
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\WizardScaffolding.pdb
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\obj\Debug\FirstScaffolding.Deploy.csprojAssemblyReference.cache
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\obj\Debug\_EmptyResource.resources
@@ -27,4 +28,3 @@ E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\obj\Deb
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\obj\Debug\ItemTemplates\CSharp\1033\FirstScaffolding.ItemTemplate\API\EntityController.cs
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\obj\Debug\ItemTemplates\CSharp\1033\FirstScaffolding.ItemTemplate\FirstScaffolding.ItemTemplate.vstemplate
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\obj\Debug\templateFiles.json
-E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Deploy\bin\Debug\extension.vsixmanifest
