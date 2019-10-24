@@ -1,9 +1,4 @@
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\bin\Debug\ItemTemplates\CSharp\1033\FirstScaffolding.ItemTemplate.zip
-E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\_EmptyResource.resources
-E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\FirstScaffolding.ItemTemplate.csproj.GenerateResource.cache
-E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\CSharp\1033\FirstScaffolding.ItemTemplate.zip
-E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\FirstScaffolding.ItemTemplate.dll
-E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\FirstScaffolding.ItemTemplate.pdb
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\bin\Debug\envdte.dll
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\bin\Debug\envdte80.dll
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
@@ -37,4 +32,10 @@ E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\b
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\bin\Debug\pt-BR\Microsoft.VisualStudio.Shell.15.0.resources.dll
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\bin\Debug\en\Microsoft.VisualStudio.Imaging.resources.dll
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\FirstScaffolding.ItemTemplate.csprojAssemblyReference.cache
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\_EmptyResource.resources
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\FirstScaffolding.ItemTemplate.csproj.GenerateResource.cache
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\CSharp\1033\FirstScaffolding.ItemTemplate.zip
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\FirstScaffolding.ItemTemplate.csproj.CopyComplete
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\FirstScaffolding.ItemTemplate.dll
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Debug\FirstScaffolding.ItemTemplate.pdb

@@ -49,10 +49,27 @@ namespace WizardScaffolding
                 projeto = GetProjectByName(_domainProject);
                 pasta = "Entities";
             }
+            else if (item == string.Concat(_entityName, "DomainService"))
+            {
+                projeto = GetProjectByName(_domainProject);
+                pasta = "Services";
+            }
+            else if (item == string.Concat("I", _entityName, "DomainService"))
+            {
+                projeto = GetProjectByName(_domainProject);
+                pasta = "Abstractions";
+            }
+
+            //Repository Layer
             else if (item == string.Concat("I", _entityName, "Repository"))
             {
                 projeto = GetProjectByName(_domainProject);
                 pasta = "Abstractions";
+            }
+            else if (item == string.Concat(_entityName, "Repository"))
+            {
+                projeto = GetProjectByName(_repositoryProject);
+                pasta = "Repositories";
             }
 
             // Application Layer 
@@ -66,7 +83,7 @@ namespace WizardScaffolding
                 projeto = GetProjectByName(_applicationProject);
                 pasta = "Services";
             }
-            else if (item == string.Concat("I", _entityName, "ApplicationService"))
+            else if (item == string.Concat("I", _entityName, "AppService"))
             {
                 projeto = GetProjectByName(_applicationProject);
                 pasta = "Abstractions";
@@ -77,13 +94,6 @@ namespace WizardScaffolding
             {
                 projeto = GetProjectByName(_apiProject);
                 pasta = "Controllers";
-            }
-
-            // Repository layer 
-            else if (item == string.Concat(_entityName, "Repository"))
-            {
-                projeto = GetProjectByName(_repositoryProject);
-                pasta = "Repositories";
             }
 
             projeto.AdicionaItemPasta(projectItem, pasta);
@@ -136,7 +146,7 @@ namespace WizardScaffolding
             replacementsDictionary.Add("$ApplicationServicesNamespace$", string.Concat(_applicationProject, ".", "Services"));
             replacementsDictionary.Add("$DomainEntitiesNamespace$", string.Concat(_domainProject, ".", "Entities"));
             replacementsDictionary.Add("$DomainCoreModelsNamespace$", string.Concat(_domainProject, ".Core.", "Models"));
-            replacementsDictionary.Add("$DomainInterfaceNamespace$", string.Concat(_domainProject, ".", "Abstractions"));
+            replacementsDictionary.Add("$DomainInterfacesNamespace$", string.Concat(_domainProject, ".", "Abstractions"));
             replacementsDictionary.Add("$DomainServicesNamespace$", string.Concat(_domainProject, ".", "Services"));
             replacementsDictionary.Add("$RepositoryNamespace$", string.Concat(_repositoryProject, ".", "Repositories"));
             replacementsDictionary.Add("$WebAPINamespace$", string.Concat(_apiProject, ".", "Controllers"));

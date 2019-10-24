@@ -1,5 +1,5 @@
 ﻿using Dapper;
-using $DomainInterfaceNamespace$;
+using $DomainInterfacesNamespace$;
 using $DomainEntitiesNamespace$;
 using Microsoft.Extensions.Configuration;
 using System.Collections.Generic;

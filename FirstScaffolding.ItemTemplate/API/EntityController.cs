@@ -9,8 +9,8 @@ namespace $WebAPINamespace$
     [ApiController]
     public class $Entity$Controller : ControllerBase
     {
-        private readonly I$Entity$ApplicationService _$lowerEntity$AppService;
-        public $Entity$Controller(I$Entity$ApplicationService $lowerEntity$Appservice)
+        private readonly I$Entity$AppService _$lowerEntity$AppService;
+        public $Entity$Controller(I$Entity$AppService $lowerEntity$Appservice)
         {
             _$lowerEntity$AppService = $lowerEntity$Appservice;
         }

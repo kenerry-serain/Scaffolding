@@ -1,14 +1,14 @@
 ﻿using AutoMapper;
-using $ApplicationInterfaceNamespace$;
 using $ApplicationViewModelsNamespace$;
-using $ApplicationInterfaceNamespace$;
+using $ApplicationInterfacesNamespace$;
 using $DomainEntitiesNamespace$;
+using $DomainInterfacesNamespace$;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace $ApplicationServicesNamespace$
 {
-    public class $Entity$ApplicationService : I$Entity$ApplicationService
+    public class $Entity$ApplicationService : I$Entity$AppService
     {
         private readonly I$Entity$DomainService _$lowerEntity$DomainService;
         private readonly IMapper _mapper;

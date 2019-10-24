@@ -40,9 +40,9 @@ E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\bin\Deb
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\bin\Debug\pt-BR\Microsoft.VisualStudio.Shell.15.0.resources.dll
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\bin\Debug\en\Microsoft.VisualStudio.Imaging.resources.dll
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\obj\Debug\WizardScaffolding.csprojAssemblyReference.cache
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\obj\Debug\WizardScaffolding.FormInput.resources
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\obj\Debug\WizardScaffolding.csproj.GenerateResource.cache
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\obj\Debug\WizardScaffolding.csproj.CopyComplete
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\obj\Debug\WizardScaffolding.dll
 E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\obj\Debug\WizardScaffolding.pdb
-E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.Wizard\obj\Debug\WizardScaffolding.csprojAssemblyReference.cache

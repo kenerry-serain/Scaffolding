@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 using System.Collections.Generic;
-using $ApplicationViewModelsNamespace$
+using $ApplicationViewModelsNamespace$;
 
 namespace $ApplicationInterfacesNamespace$
 {

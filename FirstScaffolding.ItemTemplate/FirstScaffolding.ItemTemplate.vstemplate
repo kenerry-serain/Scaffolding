@@ -12,10 +12,12 @@
   </TemplateData>
   <TemplateContent>
     <ProjectItem SubType="code" TargetFileName="temp/$Entity$.cs" ReplaceParameters="true">Domain\Entities\Entity.cs</ProjectItem>
-    <ProjectItem SubType="code" TargetFileName="temp/I$Entity$Repositorio.cs" ReplaceParameters="true">Domain\Interfaces\IEntityRepository.cs</ProjectItem>
-    <ProjectItem SubType="code" TargetFileName="temp/$Entity$Repositorio.cs" ReplaceParameters="true">Repository\EntityRepository.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/I$Entity$Repository.cs" ReplaceParameters="true">Domain\Interfaces\IEntityRepository.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$Entity$Repository.cs" ReplaceParameters="true">Repository\EntityRepository.cs</ProjectItem>
     <ProjectItem SubType="code" TargetFileName="temp/I$Entity$AppService.cs" ReplaceParameters="true">Application\Interfaces\IEntityAppService.cs</ProjectItem>
     <ProjectItem SubType="code" TargetFileName="temp/$Entity$AppService.cs" ReplaceParameters="true">Application\Services\EntityAppService.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/I$Entity$DomainService.cs" ReplaceParameters="true">Domain\Interfaces\IEntityDomainService.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$Entity$DomainService.cs" ReplaceParameters="true">Domain\Services\EntityDomainService.cs</ProjectItem>
     <ProjectItem SubType="code" TargetFileName="temp/$Entity$ViewModel.cs" ReplaceParameters="true">Application\ViewModel\EntityViewModel.cs</ProjectItem>
     <ProjectItem SubType="code" TargetFileName="temp/$Entity$Controller.cs" ReplaceParameters="true">API\EntityController.cs</ProjectItem>
   </TemplateContent>
