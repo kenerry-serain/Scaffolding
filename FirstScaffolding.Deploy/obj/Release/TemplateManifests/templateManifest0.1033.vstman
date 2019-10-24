@@ -1,0 +1,18 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>CSharp\1033\FirstScaffolding.ItemTemplate</RelativePathOnDisk>
+    <TemplateFileName>FirstScaffolding.ItemTemplate.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>Viceri Item</Name>
+        <Description>Scaffolding Item Template</Description>
+        <Icon>FirstScaffolding.ItemTemplate.ico</Icon>
+        <TemplateID>a0611b43-1a65-4336-b375-0d314525eb07</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>Class.cs</DefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

@@ -1,0 +1,7 @@
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\bin\Release\ItemTemplates\CSharp\1033\FirstScaffolding.ItemTemplate.zip
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Release\FirstScaffolding.ItemTemplate.csprojAssemblyReference.cache
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Release\_EmptyResource.resources
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Release\FirstScaffolding.ItemTemplate.csproj.GenerateResource.cache
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Release\CSharp\1033\FirstScaffolding.ItemTemplate.zip
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Release\FirstScaffolding.ItemTemplate.dll
+E:\Repository\Scaffolding Tests\FirstScaffolding\FirstScaffolding.ItemTemplate\obj\Release\FirstScaffolding.ItemTemplate.pdb

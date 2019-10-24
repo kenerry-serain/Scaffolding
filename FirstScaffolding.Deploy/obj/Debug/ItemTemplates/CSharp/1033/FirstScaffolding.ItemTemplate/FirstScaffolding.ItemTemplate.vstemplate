@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>Viceri Item</Name>
+    <Description>Scaffolding Item Template</Description>
+    <Icon>FirstScaffolding.ItemTemplate.ico</Icon>
+    <TemplateID>a0611b43-1a65-4336-b375-0d314525eb07</TemplateID>
+    <ProjectType>CSharp</ProjectType>
+    <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <DefaultName>Class.cs</DefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <ProjectItem SubType="code" TargetFileName="temp/$entityName$.cs" ReplaceParameters="true">Domain\Entities\Entity.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/I$entityName$Repositorio.cs" ReplaceParameters="true">Domain\Interfaces\IEntityRepository.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$entityName$Repositorio.cs" ReplaceParameters="true">Repository\EntityRepository.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/I$entityName$AppService.cs" ReplaceParameters="true">Application\Interfaces\IEntityAppService.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$entityName$AppService.cs" ReplaceParameters="true">Application\Services\EntityAppService.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$entityName$ViewModel.cs" ReplaceParameters="true">Application\ViewModel\EntityViewModel.cs</ProjectItem>
+    <ProjectItem SubType="code" TargetFileName="temp/$entityName$Controller.cs" ReplaceParameters="true">API\EntityController.cs</ProjectItem>
+  </TemplateContent>
+  <WizardExtension>
+    <Assembly>FirstScaffolding.Wizard</Assembly>
+    <FullClassName>FirstScaffolding.Wizard.WizardTemplate</FullClassName>
+  </WizardExtension>
+</VSTemplate>
